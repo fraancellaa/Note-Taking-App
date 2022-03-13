@@ -8,7 +8,7 @@ Note Taker is an application that can be used to write and save notes. This appl
 
 # Resources
 
-1. CANVAS UM - Module 11\
+1. CANVAS UM - Module 11
 2. Peer Review
 3. Google
 4. YouTube
